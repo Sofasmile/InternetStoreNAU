@@ -1,0 +1,21 @@
+D:\Даша\Important\InternetStore\DAL\bin\Debug\DAL.dll.config
+D:\Даша\Important\InternetStore\DAL\bin\Debug\DAL.dll
+D:\Даша\Important\InternetStore\DAL\bin\Debug\DAL.pdb
+D:\Даша\Important\InternetStore\DAL\bin\Debug\EntityFramework.dll
+D:\Даша\Important\InternetStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Даша\Important\InternetStore\DAL\bin\Debug\EntityFramework.xml
+D:\Даша\Important\InternetStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Даша\Important\InternetStore\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Даша\Important\InternetStore\DAL\obj\Debug\DAL.dll
+D:\Даша\Important\InternetStore\DAL\obj\Debug\DAL.pdb
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\DAL.dll
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\DAL.pdb
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\obj\Debug\DAL.dll
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\DAL\obj\Debug\DAL.pdb

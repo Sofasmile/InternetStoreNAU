@@ -1,0 +1,10 @@
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\bin\Debug\Presentation.exe
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\bin\Debug\Presentation.pdb
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.exe
+C:\Users\София\Downloads\Telegram Desktop\InternetStore (2)\InternetStore\Presentation\obj\Debug\Presentation.pdb
